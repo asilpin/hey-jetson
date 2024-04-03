@@ -1,0 +1,13 @@
+main.c:92:5:main	5
+main.c:189:6:SystemClock_Config	3
+main.c:236:13:MX_I2S2_Init	2
+main.c:268:13:MX_I2S3_Init	2
+main.c:300:13:MX_LPUART1_UART_Init	5
+main.c:345:13:MX_DMA_Init	1
+main.c:370:13:MX_GPIO_Init	1
+main.c:418:11:complexABS	1
+main.c:422:6:DoFFT	3
+main.c:451:6:HAL_I2S_RxHalfCpltCallback	1
+main.c:457:6:HAL_I2S_RxCpltCallback	1
+main.c:471:1:__io_putchar	1
+main.c:495:6:Error_Handler	1
